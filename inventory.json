@@ -1,7 +1,7 @@
 {
   "dealership": "Steve Marshall Motors 1996 Ltd",
-  "generated_at": "2026-10-25T14:00:20",
-  "vehicle_count": 141,
+  "generated_at": "2026-10-25T15:33:20",
+  "vehicle_count": 138,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -87,17 +87,6 @@
       "model": "Armada",
       "condition": "used",
       "price": 20520.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Super Duty F-350 SRW ",
-      "vin": "1FT8W3BT0KEE78595",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/b9993e4dc195.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 59995.0,
       "price_currency": "CAD"
     },
     {
@@ -197,28 +186,6 @@
       "model": "Sierra 1500",
       "condition": "used",
       "price": 49998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Honda Pilot TOURING 8 PASSENGER*AWD*PREMIUM FAMILY COMFORT*HONDA SENSINGin Campbell River",
-      "vin": "5FNYF6H94MB502332",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/29f1a12e16b6.html",
-      "year": 2021,
-      "make": "Honda",
-      "model": "Pilot TOURING 8 PASSENGER*AWD*PREMIUM FAMILY COMFORT*HONDA SENSINGin Campbell River",
-      "condition": "used",
-      "price": 36932.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Honda Pilot ",
-      "vin": "5FNYF6H94MB502332",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/8ce32e635810.html",
-      "year": 2021,
-      "make": "Honda",
-      "model": "Pilot",
-      "condition": "used",
-      "price": 36932.0,
       "price_currency": "CAD"
     },
     {
@@ -343,6 +310,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Ford F-150 701A*Platinum Hybrid Twin Panel Moonroof*FX4 OFF ROAD PKG*MAX TRAILER TOW PKGin Campbell River",
+      "vin": "1FTFW1ED5NFA36894",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/45097d03c155.html",
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150 701A*Platinum Hybrid Twin Panel Moonroof*FX4 OFF ROAD PKG*MAX TRAILER TOW PKGin Campbell River",
+      "condition": "used",
+      "price": 50888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Ford F-150 SUPERCAB XLT 300A **8 FT BOX *TRAILER TOW PACKAGEin Campbell River",
       "vin": "1FTFX1E83NKD11847",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/92773ff0ff80.html",
@@ -398,12 +376,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Subaru WRX LIMITED 6M*2.4L TURBOCHARGED BOX PERFORMANCE*SYMMETRICAL*AWD*6 SPD TRANSMISSIONin Campbell River",
+      "name": "2022 Subaru WRX LIMITED 6M*2.4L TURBOCHARGED PERFORMANCE*SYMMETRICAL AWD*6 SPD TRANSMISSIONin Campbell River",
       "vin": "JF1VBAL6XN9023963",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/d7955fae6415.html",
       "year": 2022,
       "make": "Subaru",
-      "model": "WRX LIMITED 6M*2.4L TURBOCHARGED BOX PERFORMANCE*SYMMETRICAL*AWD*6 SPD TRANSMISSIONin Campbell River",
+      "model": "WRX LIMITED 6M*2.4L TURBOCHARGED PERFORMANCE*SYMMETRICAL AWD*6 SPD TRANSMISSIONin Campbell River",
       "condition": "used",
       "price": 31999.0,
       "price_currency": "CAD"
@@ -889,7 +867,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 51498.0,
+      "price": 49999.0,
       "price_currency": "CAD"
     },
     {
@@ -901,17 +879,6 @@
       "model": "F-150",
       "condition": "used",
       "price": 47500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Super Duty F-350 SRW ",
-      "vin": "1FD8W3FN1SEC23297",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/142809bfa0e6.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 70997.0,
       "price_currency": "CAD"
     },
     {
@@ -966,7 +933,7 @@
       "make": "Chevrolet",
       "model": "Trax 1RS*1.2L TURBOCHARGED PERFORMANCE*SPORTY STYLING*MODERN CHEVROLET TECHNOLOGYin Campbell River",
       "condition": "used",
-      "price": 28700.0,
+      "price": 27998.0,
       "price_currency": "CAD"
     },
     {
@@ -977,7 +944,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 28700.0,
+      "price": 27998.0,
       "price_currency": "CAD"
     },
     {

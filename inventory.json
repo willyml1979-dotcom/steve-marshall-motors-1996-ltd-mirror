@@ -1,6 +1,6 @@
 {
   "dealership": "Steve Marshall Motors 1996 Ltd",
-  "generated_at": "2026-10-25T15:33:20",
+  "generated_at": "2026-10-25T23:40:16",
   "vehicle_count": 138,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -22,11 +22,51 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford Explorer ACTIVE 200A *2ND ROW BENCH SEATINGin Campbell River",
+      "vin": "1FMUK8DHXTGB47279",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/293abf44360d.html",
+      "condition": "new",
+      "price": 49645.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 STX*200A*FOG LAMPS*BLACK APPEARANCE PKG*BSW ALL TERRAIN TIRES*GLOSS BLK WHEELSin Campbell River",
+      "vin": "1FTEW2LP7TKE09985",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/8d486b12ac68.html",
+      "condition": "new",
+      "price": 54910.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Ford F-150 XLT*301A*BSW ALL TERRAIN TIRES*BLACK APPEARANCE PKG*GLOSS BLK WHEELS*TRAILER BRAKE CONTROLLERin Campbell River",
       "vin": "1FTEW3LP6TFB71366",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/6aa7d3c4feb6.html",
       "condition": "new",
       "price": 55795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 STX*2.7L ECOBOOST ENGINE*4X4*FOG LAMPS*6550 GVWR PGKin Campbell River",
+      "vin": "1FTEX2LP0TKE70320",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/48df1d8e44f1.html",
+      "condition": "new",
+      "price": 51200.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 STX*2.7L ECOBOOST*FOG LIGHTS*20\" DARK GREY ALUM.WHEELS*in Campbell River",
+      "vin": "1FTEW2LP9TKE96465",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/3cd14e33e8e1.html",
+      "condition": "new",
+      "price": 53035.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 STX SERIES*2.7L ECOBOOST ENGINE*BLACK APPEARANCE PKG*SECURICODE KEYLESS ENTRY*FOG LIGHTSin Campbell River",
+      "vin": "1FTEW2LP6TKE33632",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/24b58861bf2a.html",
+      "condition": "new",
+      "price": 55305.0,
       "price_currency": "CAD"
     },
     {
@@ -1152,17 +1192,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Explorer ACTIVE 200A *2ND ROW BENCH SEATINGin Campbell River",
-      "vin": "1FMUK8DHXTGB47279",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/293abf44360d.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Explorer ACTIVE 200A *2ND ROW BENCH SEATINGin Campbell River",
-      "condition": "new",
-      "price": 49645.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Explorer Active 200a Pkg * 2.3L ECOBOOST * I-4 ENGINE * CARBON GREY SPOKED WHEELS * ACTIVE COMFORT PKGin Campbell River",
       "vin": "1FMUK8DH9TGC36857",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/78e7a15fd5f5.html",
@@ -1204,50 +1233,6 @@
       "model": "F-150 STX 200B * 2.7L ECOBOOST * ALL TERRAIN TIRES * 3.55 NON-LIMITED-SLIP AXLEin Campbell River",
       "condition": "new",
       "price": 56222.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 STX*200A*FOG LAMPS*BLACK APPEARANCE PKG*BSW ALL TERRAIN TIRES*GLOSS BLK WHEELSin Campbell River",
-      "vin": "1FTEW2LP7TKE09985",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/8d486b12ac68.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150 STX*200A*FOG LAMPS*BLACK APPEARANCE PKG*BSW ALL TERRAIN TIRES*GLOSS BLK WHEELSin Campbell River",
-      "condition": "new",
-      "price": 54910.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 STX*2.7L ECOBOOST ENGINE*4X4*FOG LAMPS*6550 GVWR PGKin Campbell River",
-      "vin": "1FTEX2LP0TKE70320",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/48df1d8e44f1.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150 STX*2.7L ECOBOOST ENGINE*4X4*FOG LAMPS*6550 GVWR PGKin Campbell River",
-      "condition": "new",
-      "price": 51200.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 STX*2.7L ECOBOOST*FOG LIGHTS*20\" DARK GREY ALUM.WHEELS*in Campbell River",
-      "vin": "1FTEW2LP9TKE96465",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/3cd14e33e8e1.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150 STX*2.7L ECOBOOST*FOG LIGHTS*20\" DARK GREY ALUM.WHEELS*in Campbell River",
-      "condition": "new",
-      "price": 53035.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 STX SERIES*2.7L ECOBOOST ENGINE*BLACK APPEARANCE PKG*SECURICODE KEYLESS ENTRY*FOG LIGHTSin Campbell River",
-      "vin": "1FTEW2LP6TKE33632",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/24b58861bf2a.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150 STX SERIES*2.7L ECOBOOST ENGINE*BLACK APPEARANCE PKG*SECURICODE KEYLESS ENTRY*FOG LIGHTSin Campbell River",
-      "condition": "new",
-      "price": 55305.0,
       "price_currency": "CAD"
     },
     {

@@ -1,6 +1,6 @@
 {
   "dealership": "Steve Marshall Motors 1996 Ltd",
-  "generated_at": "2026-10-26T00:59:57",
+  "generated_at": "2026-10-26T08:11:50",
   "vehicle_count": 138,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -75,6 +75,46 @@
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/27f114a03ffe.html",
       "condition": "new",
       "price": 53035.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger XLT*2.3 L ECOBOOST ENGINE*FX4 OFF-ROAD PKG*BLK APPEARANCE PKG*POWER SLIDING REAR WINDOWin Campbell River",
+      "vin": "1FTER4HH2TLE47512",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/ee56a3dac948.html",
+      "condition": "new",
+      "price": 47695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger XLT* 2.3L ECOBOOST ENGINE*FX4 OFF-ROAD PKG*BLACK APPEARANCE PKGin Campbell River",
+      "vin": "1FTER4HH0TLE49615",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/c00f64ec4471.html",
+      "condition": "new",
+      "price": 47800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger XL*2.3L ECOBOOST*STX APPEARANCE PKG*FOG LAMPSin Campbell River",
+      "vin": "1FTER4PH4TLE54107",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/4abc266945ce.html",
+      "condition": "new",
+      "price": 42815.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger XLT*2.3L ECOBOOST*FX4 OFF-ROAD PKG*TRAILER TOW PKGin Campbell River",
+      "vin": "1FTER4HH0TLE54846",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/1338c29f2439.html",
+      "condition": "new",
+      "price": 46725.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger XL*FX4 OFF-ROAD PACKAGE*TRAILER TOW PACKAGE*STX APPEARANCE PACKAGEin Campbell River",
+      "vin": "1FTER4PH7TLE53601",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/759d85d1b439.html",
+      "condition": "new",
+      "price": 43865.0,
       "price_currency": "CAD"
     },
     {
@@ -1409,61 +1449,6 @@
       "model": "Ranger XL*100A*STX APPEARANCE PKG*FX4 OFF-ROAD PKG*INTEGRATED BOX SIDE STEPin Campbell River",
       "condition": "new",
       "price": 43660.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger XLT*2.3 L ECOBOOST ENGINE*FX4 OFF-ROAD PKG*BLK APPEARANCE PKG*POWER SLIDING REAR WINDOWin Campbell River",
-      "vin": "1FTER4HH2TLE47512",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/ee56a3dac948.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger XLT*2.3 L ECOBOOST ENGINE*FX4 OFF-ROAD PKG*BLK APPEARANCE PKG*POWER SLIDING REAR WINDOWin Campbell River",
-      "condition": "new",
-      "price": 47695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger XLT* 2.3L ECOBOOST ENGINE*FX4 OFF-ROAD PKG*BLACK APPEARANCE PKGin Campbell River",
-      "vin": "1FTER4HH0TLE49615",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/c00f64ec4471.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger XLT* 2.3L ECOBOOST ENGINE*FX4 OFF-ROAD PKG*BLACK APPEARANCE PKGin Campbell River",
-      "condition": "new",
-      "price": 47800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger XL*2.3L ECOBOOST*STX APPEARANCE PKG*FOG LAMPSin Campbell River",
-      "vin": "1FTER4PH4TLE54107",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/4abc266945ce.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger XL*2.3L ECOBOOST*STX APPEARANCE PKG*FOG LAMPSin Campbell River",
-      "condition": "new",
-      "price": 42815.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger XLT*2.3L ECOBOOST*FX4 OFF-ROAD PKG*TRAILER TOW PKGin Campbell River",
-      "vin": "1FTER4HH0TLE54846",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/1338c29f2439.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger XLT*2.3L ECOBOOST*FX4 OFF-ROAD PKG*TRAILER TOW PKGin Campbell River",
-      "condition": "new",
-      "price": 46725.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger XL*FX4 OFF-ROAD PACKAGE*TRAILER TOW PACKAGE*STX APPEARANCE PACKAGEin Campbell River",
-      "vin": "1FTER4PH7TLE53601",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/759d85d1b439.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger XL*FX4 OFF-ROAD PACKAGE*TRAILER TOW PACKAGE*STX APPEARANCE PACKAGEin Campbell River",
-      "condition": "new",
-      "price": 43865.0,
       "price_currency": "CAD"
     },
     {

@@ -1,7 +1,7 @@
 {
   "dealership": "Steve Marshall Motors 1996 Ltd",
-  "generated_at": "2026-10-26T08:11:50",
-  "vehicle_count": 138,
+  "generated_at": "2026-10-26T09:28:52",
+  "vehicle_count": 137,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -214,28 +214,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford Mustang GT*FASTBACK*PERFORMANCE BRAKING*FORD CO-PILOT360 TECHNOLOGYin Campbell River",
-      "vin": "1FA6P8CF6M5103166",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/d21a0a929504.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Mustang GT*FASTBACK*PERFORMANCE BRAKING*FORD CO-PILOT360 TECHNOLOGYin Campbell River",
-      "condition": "used",
-      "price": 34498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Ford Mustang ",
-      "vin": "1FA6P8CF6M5103166",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/d9b869c3c754.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Mustang",
-      "condition": "used",
-      "price": 34498.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Ford Mustang ",
       "vin": "1FA6P8CF6M5103166",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/d9b869c3c754.html",
@@ -409,17 +387,6 @@
       "model": "F-150",
       "condition": "used",
       "price": 39998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford F-150 XLT*3.5L ECOBOOST*EXTENDED RUNNING BOARDS*TWIN PANEL MOONROOF*FX4 OFF-ROAD PKG*TAILGATE STEPin Campbell River",
-      "vin": "1FTFW1E88NFC01498",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/448ebffaa7c9.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150 XLT*3.5L ECOBOOST*EXTENDED RUNNING BOARDS*TWIN PANEL MOONROOF*FX4 OFF-ROAD PKG*TAILGATE STEPin Campbell River",
-      "condition": "used",
-      "price": 43999.0,
       "price_currency": "CAD"
     },
     {
@@ -643,6 +610,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Lincoln Aviator RESERVE*INTELLIGENT AWD*TWIN-TURBO PERFORMANCE*THREE ROW LUXURYin Campbell River",
+      "vin": "5LM5J7XC1PGL05433",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/aa3929771d99.html",
+      "year": 2023,
+      "make": "Lincoln",
+      "model": "Aviator RESERVE*INTELLIGENT AWD*TWIN-TURBO PERFORMANCE*THREE ROW LUXURYin Campbell River",
+      "condition": "used",
+      "price": 53933.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Lincoln Aviator ",
       "vin": "5LM5J7XC1PGL05433",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/531dcb120480.html",
@@ -694,7 +672,7 @@
       "make": "Ford",
       "model": "Bronco Outer Banks 314A SASQUATCH PACKAGE *HARD TOP *HIGH/LUX PACKAGEin Campbell River",
       "condition": "used",
-      "price": 46985.0,
+      "price": 46800.0,
       "price_currency": "CAD"
     },
     {
@@ -705,7 +683,7 @@
       "make": "Ford",
       "model": "Bronco",
       "condition": "used",
-      "price": 46985.0,
+      "price": 46800.0,
       "price_currency": "CAD"
     },
     {
@@ -948,6 +926,17 @@
       "model": "F-150",
       "condition": "used",
       "price": 49999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford F-150 XLT*3.5L ECOBOOST V6*4X4*SUPERCREW*in Campbell River",
+      "vin": "1FTFW3L81SKE61176",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/5decdca3ecb6.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 50976.0,
       "price_currency": "CAD"
     },
     {

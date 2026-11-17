@@ -1,10 +1,256 @@
 {
   "dealership": "Steve Marshall Motors 1996 Ltd",
-  "generated_at": "2026-11-17T09:35:47",
-  "vehicle_count": 141,
+  "generated_at": "2026-11-17T11:54:21",
+  "vehicle_count": 146,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Ford F-150 2014 for salein Campbell River",
+      "vin": "1FTFW1EF4EKF84166",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/f70e5099d7f2.html",
+      "condition": "used",
+      "price": 21966.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-350 2016 for salein Campbell River",
+      "vin": "1FT8X3B66GEA06920",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/60350c09aa94.html",
+      "condition": "used",
+      "price": 26998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Super Duty F-350 SRW 2017 for salein Campbell River",
+      "vin": "1FT8X3B67HEE76729",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/ae3bf2dd0248.html",
+      "condition": "used",
+      "price": 35800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Armada 2017 for salein Campbell River",
+      "vin": "JN8AY2NC8H9506408",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/7bcecc8d20db.html",
+      "condition": "used",
+      "price": 19900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Titan XD 2017 for salein Campbell River",
+      "vin": "1N6BA1F43HN519254",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/76675c932934.html",
+      "condition": "used",
+      "price": 32800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 1500 2020 for salein Campbell River",
+      "vin": "1GCUYHET4LZ237330",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/136cb6c14614.html",
+      "condition": "used",
+      "price": 40999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Explorer 2020 for salein Campbell River",
+      "vin": "1FMSK8DH2LGB69588",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/58dcd4b39b43.html",
+      "condition": "used",
+      "price": 26300.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2020 for salein Campbell River",
+      "vin": "1FTEW1E57LKE52700",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/699c9c1c2ff0.html",
+      "condition": "used",
+      "price": 35998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Palisade 2020 for salein Campbell River",
+      "vin": "KM8R3DHEXLU035112",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/2300e19d5773.html",
+      "condition": "used",
+      "price": 25900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Forester 2020 for salein Campbell River",
+      "vin": "JF2SKEJCXLH549818",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/9e599fdcfb3b.html",
+      "condition": "used",
+      "price": 21220.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2021 for salein Campbell River",
+      "vin": "1FTFW1E84MKD28934",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/08ea22f2e75d.html",
+      "condition": "used",
+      "price": 35999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Mustang Mach-E 2021 for salein Campbell River",
+      "vin": "3FMTK3SU0MMA23009",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/ef450b79c07f.html",
+      "condition": "used",
+      "price": 29800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Kicks 2021 for salein Campbell River",
+      "vin": "3N1CP5CV1ML526291",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/d2180c9abcf8.html",
+      "condition": "used",
+      "price": 18210.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Edge 2022 for salein Campbell River",
+      "vin": "2FMPK4J97NBA47671",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/92459e0b5b62.html",
+      "condition": "used",
+      "price": 22971.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-5 2022 for salein Campbell River",
+      "vin": "JM3KFBCM7N1582172",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/54464c1f5250.html",
+      "condition": "used",
+      "price": 20972.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru WRX 2022 for salein Campbell River",
+      "vin": "JF1VBAL6XN9023963",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/aa33242f7375.html",
+      "condition": "used",
+      "price": 31400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Edge 2023 for salein Campbell River",
+      "vin": "2FMPK4K91PBA37803",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/f2ba3f11e392.html",
+      "condition": "used",
+      "price": 23498.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Explorer 2023 for salein Campbell River",
+      "vin": "1FMSK8FH4PGB26969",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/354d99b95346.html",
+      "condition": "used",
+      "price": 40888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Buick Encore GX 2024 for salein Campbell River",
+      "vin": "KL4AMGSL8RB004253",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/f913e4e502d1.html",
+      "condition": "used",
+      "price": 32953.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 3500 2024 for salein Campbell River",
+      "vin": "1GT49YEY0RF410201",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/9198a29ef2b8.html",
+      "condition": "used",
+      "price": 81800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Civic Sedan 2024 for salein Campbell River",
+      "vin": "2HGFE2F34RH105126",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/125e51c355a4.html",
+      "condition": "used",
+      "price": 25888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2024 for salein Campbell River",
+      "vin": "1C4RJHAG1RC141315",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/761d041cf4f8.html",
+      "condition": "used",
+      "price": 39280.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas Cross Sport 2024 for salein Campbell River",
+      "vin": "1V2FE2CA7RC239177",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/f0df83e905a5.html",
+      "condition": "used",
+      "price": 37999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco 2025 for salein Campbell River",
+      "vin": "1FMEE7BH0SLB64350",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/015b78bedf1b.html",
+      "condition": "used",
+      "price": 50950.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2025 for salein Campbell River",
+      "vin": "1FTFW3L81SKE61176",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/4f83adf2971d.html",
+      "condition": "used",
+      "price": 48800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Super Duty F-350 SRW 2025 for salein Campbell River",
+      "vin": "1FT8W3BM2SED93315",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/142809bfa0e6.html",
+      "condition": "used",
+      "price": 92915.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2025 for salein Campbell River",
+      "vin": "1C4RJHAG3S8780434",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/34997e525aa7.html",
+      "condition": "used",
+      "price": 46999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Maverick 2026 for salein Campbell River",
+      "vin": "3FTTW8J31TRA10334",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/e7ab14bf325f.html",
+      "condition": "used",
+      "price": 41888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2014 Ford F-150 XL*5.0L V8 PERFORMANCE*6-SPD AUTO.TRANSMISSION*FORD SYNC CONNECTIVITY*4X4in Campbell River",
+      "vin": "1FTFW1EF4EKF84166",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/9a4cc3f968e0.html",
+      "year": 2014,
+      "make": "Ford",
+      "model": "F-150 XL*5.0L V8 PERFORMANCE*6-SPD AUTO.TRANSMISSION*FORD SYNC CONNECTIVITY*4X4in Campbell River",
+      "condition": "used",
+      "price": 21966.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Ford F-350 LARIAT*6.2L V8 PERFORMANCE*6-SPD AUTO.TRANSMISSION*4X4*INTERGRATED TRAILER BRAKE CONTROLLERin Campbell River",
+      "vin": "1FT8X3B66GEA06920",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/0ca111f548b3.html",
+      "year": 2016,
+      "make": "Ford",
+      "model": "F-350 LARIAT*6.2L V8 PERFORMANCE*6-SPD AUTO.TRANSMISSION*4X4*INTERGRATED TRAILER BRAKE CONTROLLERin Campbell River",
+      "condition": "used",
+      "price": 26998.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "2017 Ford Super Duty F-350 SRW XLT*6.2L EFI V-8*HEAVY ALTERNATOR*REVERS SENSING SYSTEM*SKID PLATES*5\" STEP BARin Campbell River",
       "vin": "1FT8X3B67HEE76729",
@@ -13,18 +259,7 @@
       "make": "Ford",
       "model": "Super Duty F-350 SRW XLT*6.2L EFI V-8*HEAVY ALTERNATOR*REVERS SENSING SYSTEM*SKID PLATES*5\" STEP BARin Campbell River",
       "condition": "used",
-      "price": 36929.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Ford Super Duty F-350 SRW ",
-      "vin": "1FT8X3B67HEE76729",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/ae3bf2dd0248.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 36929.0,
+      "price": 35800.0,
       "price_currency": "CAD"
     },
     {
@@ -35,18 +270,40 @@
       "make": "Nissan",
       "model": "Armada PLATINUM EDITION*V8 PERFORMANCE*INTELLIGENT 4WD*THREE ROW LUXURY*FULL SIZE SUV CAPABILITYin Campbell River",
       "condition": "used",
-      "price": 20520.0,
+      "price": 19900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Nissan Armada ",
-      "vin": "JN8AY2NC8H9506408",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/7bcecc8d20db.html",
+      "name": "2017 Nissan Titan XD PRO-4X*5.0L CUMMINS TURBO DIESEL*6-SPEED TRANMISSIONin Campbell River",
+      "vin": "1N6BA1F43HN519254",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/dc7f8971adf4.html",
       "year": 2017,
       "make": "Nissan",
-      "model": "Armada",
+      "model": "Titan XD PRO-4X*5.0L CUMMINS TURBO DIESEL*6-SPEED TRANMISSIONin Campbell River",
       "condition": "used",
-      "price": 20520.0,
+      "price": 32800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Land Rover Range Rover 5.0L SUPERCHARGED V8* INTELLIGENT 4WD*ADVANCED TERRAIN RESPONSE*PANORAMIC ROOFin Campbell River",
+      "vin": "SALGS2RE5JA501926",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/61d4560f06a5.html",
+      "year": 2018,
+      "make": "Land",
+      "model": "Rover Range Rover 5.0L SUPERCHARGED V8* INTELLIGENT 4WD*ADVANCED TERRAIN RESPONSE*PANORAMIC ROOFin Campbell River",
+      "condition": "used",
+      "price": 38900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Chevrolet Silverado 1500 HIGH COUNTRY*3.0L DURAMAX TURBO-DIESEL PERFORMANCE*4X4*10-SPEED AUTOMATIC TRANSMISSIONin Campbell River",
+      "vin": "1GCUYHET4LZ237330",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/45d8282c0c12.html",
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado 1500 HIGH COUNTRY*3.0L DURAMAX TURBO-DIESEL PERFORMANCE*4X4*10-SPEED AUTOMATIC TRANSMISSIONin Campbell River",
+      "condition": "used",
+      "price": 40999.0,
       "price_currency": "CAD"
     },
     {
@@ -57,40 +314,106 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "used",
-      "price": 26999.0,
+      "price": 26300.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Ford Explorer ",
-      "vin": "1FMSK8DH2LGB69588",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/58dcd4b39b43.html",
+      "name": "2020 Ford F-150 XLT 5.0L V8*4X4*SUPERCREW*SYNC INFOTAINMENT SYSTEM*FORD CO-PILOT360in Campbell River",
+      "vin": "1FTEW1E57LKE52700",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/241222cdad7e.html",
       "year": 2020,
       "make": "Ford",
-      "model": "Explorer",
+      "model": "F-150 XLT 5.0L V8*4X4*SUPERCREW*SYNC INFOTAINMENT SYSTEM*FORD CO-PILOT360in Campbell River",
       "condition": "used",
-      "price": 26999.0,
+      "price": 35998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Ford F-150 XLT*2.7L ECOBOOST*SPORT PKG*VOICE ACTIVATE NAV.*TRAILER TOW PKG*TAILGATE STEPin Campbell River",
-      "vin": "1FTEW1EP0LKD13526",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/147b69d1e24c.html",
+      "name": "2020 Ford F-150 XL*2.7L ECOBOOST V6 PERFORMANCE*4X4*SUPERCREW*10 SPD AUTO.TRANSMISSION*SYNC INFOTAINMENT TECH.in Campbell River",
+      "vin": "1FTEW1EPXLFC44532",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/5fc6a701ba2d.html",
       "year": 2020,
       "make": "Ford",
-      "model": "F-150 XLT*2.7L ECOBOOST*SPORT PKG*VOICE ACTIVATE NAV.*TRAILER TOW PKG*TAILGATE STEPin Campbell River",
+      "model": "F-150 XL*2.7L ECOBOOST V6 PERFORMANCE*4X4*SUPERCREW*10 SPD AUTO.TRANSMISSION*SYNC INFOTAINMENT TECH.in Campbell River",
       "condition": "used",
-      "price": 47998.0,
+      "price": 35999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Ford F-150 ",
-      "vin": "1FTEW1EP0LKD13526",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/699c9c1c2ff0.html",
+      "name": "2020 Hyundai Palisade SEL AWD*3.8L V6*THREE ROW SUV COMFORT*8-SPEED AUTO.TRANSMISSION*HRTAC ALL WHEEL DRIVE SYSTEMin Campbell River",
+      "vin": "KM8R3DHEXLU035112",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/8e7615b992ad.html",
       "year": 2020,
-      "make": "Ford",
-      "model": "F-150",
+      "make": "Hyundai",
+      "model": "Palisade SEL AWD*3.8L V6*THREE ROW SUV COMFORT*8-SPEED AUTO.TRANSMISSION*HRTAC ALL WHEEL DRIVE SYSTEMin Campbell River",
       "condition": "used",
-      "price": 47998.0,
+      "price": 25900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Subaru Forester TOURING*2.5L SUBARU BOXER ENGINE*SYMMETRICAL ALL-WHEEL DRIVE*STARLINK INFOTAINMENT SYSTEMin Campbell River",
+      "vin": "JF2SKEJCXLH549818",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/350eb278f2b3.html",
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 21220.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford F-150 LARIAT*3.5L ECOBOOST*POWER RUNNING BOARDS*TWIN PANEL MOONROOF*PRO POWER ON BOARD*TRAILER TOW PKGin Campbell River",
+      "vin": "1FTFW1E81MFB73834",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/be9c516bb1c7.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-150 LARIAT*3.5L ECOBOOST*POWER RUNNING BOARDS*TWIN PANEL MOONROOF*PRO POWER ON BOARD*TRAILER TOW PKGin Campbell River",
+      "condition": "used",
+      "price": 41498.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford F-150 XLT*5.0L V8 PERFORMANCE*4X4*10-SPEED AUTO.TRANSMISSION*SYNC 4 INFOTAINMENT*FORD CO-PILOT360in Campbell River",
+      "vin": "1FTFW1E57MKE90191",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/83ca96648c7d.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-150 XLT*5.0L V8 PERFORMANCE*4X4*10-SPEED AUTO.TRANSMISSION*SYNC 4 INFOTAINMENT*FORD CO-PILOT360in Campbell River",
+      "condition": "used",
+      "price": 40991.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford F-150 XLT*3.5L ECOBOOST V6*400HP*4X4*SUPERCREW*SYNC 4 INFOTAINMENT*FORD CO-PILOT360in Campbell River",
+      "vin": "1FTFW1E84MKD28934",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/3f74ac0a872f.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-150 XLT*3.5L ECOBOOST V6*400HP*4X4*SUPERCREW*SYNC 4 INFOTAINMENT*FORD CO-PILOT360in Campbell River",
+      "condition": "used",
+      "price": 35999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Mustang Mach-E PREMIUM*ALL-ELECTRIC ERFORMANCE*eAWD CONFIDENCE*FORD CO-PILOT360in Campbell River",
+      "vin": "3FMTK3SU0MMA23009",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/389dd90d66f1.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Mustang Mach-E PREMIUM*ALL-ELECTRIC ERFORMANCE*eAWD CONFIDENCE*FORD CO-PILOT360in Campbell River",
+      "condition": "used",
+      "price": 29800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Mustang Mach-E PREMIUM*FORD CO-PILOT360*INTERIOR PROTECTION PKGin Campbell River",
+      "vin": "3FMTK3SU8MMA44173",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/d45a3777e631.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Mustang Mach-E PREMIUM*FORD CO-PILOT360*INTERIOR PROTECTION PKGin Campbell River",
+      "condition": "used",
+      "price": 30800.0,
       "price_currency": "CAD"
     },
     {
@@ -102,17 +425,6 @@
       "model": "Mustang",
       "condition": "new",
       "price": 34498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 GMC Sierra 1500 AT4*3.0L DURAMAX TURBO DIESEL*4X4 CAPABILITY*PREMIUM OFF-ROAD COMFORT*PREFESSIONAL GRADEin Campbell River",
-      "vin": "1GTU9EET9MZ427430",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/a536d7163c84.html",
-      "year": 2021,
-      "make": "GMC",
-      "model": "Sierra 1500 AT4*3.0L DURAMAX TURBO DIESEL*4X4 CAPABILITY*PREMIUM OFF-ROAD COMFORT*PREFESSIONAL GRADEin Campbell River",
-      "condition": "used",
-      "price": 49998.0,
       "price_currency": "CAD"
     },
     {
@@ -156,40 +468,7 @@
       "make": "Nissan",
       "model": "Kicks SV*1.6L PERFORMANCE*NISSAN SAFTEY SHIELD360*XTRONIC CVT TRANSMISSION*APPLE CAR PLAYin Campbell River",
       "condition": "used",
-      "price": 18800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Nissan Kicks ",
-      "vin": "3N1CP5CV1ML526291",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/d2180c9abcf8.html",
-      "year": 2021,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 18800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Volkswagen Golf Comfortline*1.4L TSI TURBOCHARGED 4-CYLINDER*8 SPEED AUTO WITH TIPTRONIC*FRONT WHEEL DRIVE*5 PASSin Campbell River",
-      "vin": "3VWG57AU5MM010341",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/cf595325e990.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Golf Comfortline*1.4L TSI TURBOCHARGED 4-CYLINDER*8 SPEED AUTO WITH TIPTRONIC*FRONT WHEEL DRIVE*5 PASSin Campbell River",
-      "condition": "used",
-      "price": 22999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Volkswagen Golf ",
-      "vin": "3VWG57AU5MM010341",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/beaeef43466b.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Golf",
-      "condition": "used",
-      "price": 22999.0,
+      "price": 18210.0,
       "price_currency": "CAD"
     },
     {
@@ -204,36 +483,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford Bronco BADLANDS*2.7L ECOBOOST*HARDTOP*STORAGE BAGS*HEAVY DUTY FRONT BUMPERin Campbell River",
-      "vin": "1FMEE5DP6NLB29146",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/1f4aa6be5f39.html",
+      "name": "2022 Ford Edge SEL*2.0L ECOBOOST TURBOCHARGED ENGINE*INTELLIGENT AWD*8-SPD AUTO.TRANSMISSION*SYNC 4A INFOTAINMENTin Campbell River",
+      "vin": "2FMPK4J97NBA47671",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/a1efeb2007ed.html",
       "year": 2022,
       "make": "Ford",
-      "model": "Bronco BADLANDS*2.7L ECOBOOST*HARDTOP*STORAGE BAGS*HEAVY DUTY FRONT BUMPERin Campbell River",
+      "model": "Edge SEL*2.0L ECOBOOST TURBOCHARGED ENGINE*INTELLIGENT AWD*8-SPD AUTO.TRANSMISSION*SYNC 4A INFOTAINMENTin Campbell River",
       "condition": "used",
-      "price": 45999.0,
+      "price": 22971.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford Bronco ",
-      "vin": "1FMEE5DP6NLB29146",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/70de350fc840.html",
+      "name": "2022 Ford Explorer ST*3.0L ECOBOOST V6 ENGINE*TWIN PANEL MOONROOF*BLACK ROOF RACK AND SIDE RAILSin Campbell River",
+      "vin": "1FM5K8GC9NGA42837",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/acbf25ece88a.html",
       "year": 2022,
       "make": "Ford",
-      "model": "Bronco",
+      "model": "Explorer ST*3.0L ECOBOOST V6 ENGINE*TWIN PANEL MOONROOF*BLACK ROOF RACK AND SIDE RAILSin Campbell River",
       "condition": "used",
-      "price": 45999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Explorer XLT 202A SPORT APPEARANCE PACKAGE *CO-PILOT ASSIST PACKAGE *TWIN PANEL MOONROOFin Campbell River",
-      "vin": "1FMSK8DH6NGB56524",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/e166ffaeef85.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Explorer XLT 202A SPORT APPEARANCE PACKAGE *CO-PILOT ASSIST PACKAGE *TWIN PANEL MOONROOFin Campbell River",
-      "condition": "used",
-      "price": 32498.0,
+      "price": 38998.0,
       "price_currency": "CAD"
     },
     {
@@ -245,39 +513,6 @@
       "model": "Explorer",
       "condition": "used",
       "price": 32498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford F-150 701A*Platinum Hybrid Twin Panel Moonroof*FX4 OFF ROAD PKG*MAX TRAILER TOW PKGin Campbell River",
-      "vin": "1FTFW1ED5NFA36894",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/45097d03c155.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150 701A*Platinum Hybrid Twin Panel Moonroof*FX4 OFF ROAD PKG*MAX TRAILER TOW PKGin Campbell River",
-      "condition": "used",
-      "price": 50888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford F-150 SUPERCAB XLT 300A **8 FT BOX *TRAILER TOW PACKAGEin Campbell River",
-      "vin": "1FTFX1E83NKD11847",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/92773ff0ff80.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 39998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford F-150 ",
-      "vin": "1FTFX1E83NKD11847",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/cd0eb55ecaa3.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 39998.0,
       "price_currency": "CAD"
     },
     {
@@ -303,6 +538,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Mazda CX-5 KURO EDITION*AWD*2.5L SKYACTIV-G 4 CYLINDER*60/40 SPLIT FOLDING REAR SEATSin Campbell River",
+      "vin": "JM3KFBCM7N1582172",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/2c5cb3517258.html",
+      "year": 2022,
+      "make": "Mazda",
+      "model": "CX-5 KURO EDITION*AWD*2.5L SKYACTIV-G 4 CYLINDER*60/40 SPLIT FOLDING REAR SEATSin Campbell River",
+      "condition": "used",
+      "price": 20972.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Subaru WRX LIMITED 6M*2.4L TURBOCHARGED PERFORMANCE*SYMMETRICAL AWD*6 SPD TRANSMISSIONin Campbell River",
       "vin": "JF1VBAL6XN9023963",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/d7955fae6415.html",
@@ -310,40 +556,7 @@
       "make": "Subaru",
       "model": "WRX LIMITED 6M*2.4L TURBOCHARGED PERFORMANCE*SYMMETRICAL AWD*6 SPD TRANSMISSIONin Campbell River",
       "condition": "used",
-      "price": 31999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Subaru WRX ",
-      "vin": "JF1VBAL6XN9023963",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/aa33242f7375.html",
-      "year": 2022,
-      "make": "Subaru",
-      "model": "WRX",
-      "condition": "used",
-      "price": 31999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chevrolet Blazer True North*3.6L V6*9-SPD AUTOMATIC*AWD*BLIND SPOT MONITORING*LANE CHANGE ALERT*AUTO DIM MIRRORSin Campbell River",
-      "vin": "3GNKBJRS7PS157516",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/6450982dc08d.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Blazer True North*3.6L V6*9-SPD AUTOMATIC*AWD*BLIND SPOT MONITORING*LANE CHANGE ALERT*AUTO DIM MIRRORSin Campbell River",
-      "condition": "used",
-      "price": 30880.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chevrolet Blazer ",
-      "vin": "3GNKBJRS7PS157516",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/a778d719e1cd.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Blazer",
-      "condition": "used",
-      "price": 30880.0,
+      "price": 31400.0,
       "price_currency": "CAD"
     },
     {
@@ -358,17 +571,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford Bronco OUTER BANKS*2.7L ECOBOOST V6*MOULDED HARD TOP*TOWING CAPABILITY*SOUND DREADENING HEADLINERin Campbell River",
-      "vin": "1FMEE5DPXPLB66252",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/c8dd1b7b899c.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Bronco OUTER BANKS*2.7L ECOBOOST V6*MOULDED HARD TOP*TOWING CAPABILITY*SOUND DREADENING HEADLINERin Campbell River",
-      "condition": "used",
-      "price": 48800.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford Bronco ",
       "vin": "1FMEE5DPXPLB66252",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/36028f3ab56e.html",
@@ -380,25 +582,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford Bronco Sport SPORT*Outer Banks*TECH PACKAGE *TOW PACKAGEin Campbell River",
-      "vin": "3FMCR9C68PRD61408",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/6fb45b8662a4.html",
+      "name": "2023 Ford Edge TITANIUM*2.0L ECOBOOST*AWD*SUV VERSATILITY*HEATED FRONT SEATS*FORD CO-PILOT360in Campbell River",
+      "vin": "2FMPK4K91PBA37803",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/d3a8570c2bac.html",
       "year": 2023,
       "make": "Ford",
-      "model": "Bronco Sport SPORT*Outer Banks*TECH PACKAGE *TOW PACKAGEin Campbell River",
+      "model": "Edge TITANIUM*2.0L ECOBOOST*AWD*SUV VERSATILITY*HEATED FRONT SEATS*FORD CO-PILOT360in Campbell River",
       "condition": "used",
-      "price": 26880.0,
+      "price": 23498.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford Bronco Sport ",
-      "vin": "3FMCR9C68PRD61408",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/c0984a2c3519.html",
+      "name": "2023 Ford Explorer LIMITED*2.3L ECOBOOST TURBOCHARGED*INTELLIGENT 4WD*3 ROW CABIN*3 INFOTAINMENT SYSTEM*FORD CO-PILOT36in Campbell River",
+      "vin": "1FMSK8FH4PGB26969",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/4737c5c47381.html",
       "year": 2023,
       "make": "Ford",
-      "model": "Bronco Sport",
+      "model": "Explorer LIMITED*2.3L ECOBOOST TURBOCHARGED*INTELLIGENT 4WD*3 ROW CABIN*3 INFOTAINMENT SYSTEM*FORD CO-PILOT36in Campbell River",
       "condition": "used",
-      "price": 26880.0,
+      "price": 40888.0,
       "price_currency": "CAD"
     },
     {
@@ -410,6 +612,28 @@
       "model": "F-150 XLT*5.0L V8*TRAILER TOW PKG*FX4 OFF ROAD PKG*TAILGATE STEPin Campbell River",
       "condition": "used",
       "price": 44999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Ford F-150 XL*5.0L V8 PERFORMANCE*4X4*SUPERCREW*10 SPD AUTO.TRANSMISSION*FORD CO-PILOT360in Campbell River",
+      "vin": "1FTFW1E53PKE46919",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/1b53c983ed11.html",
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150 XL*5.0L V8 PERFORMANCE*4X4*SUPERCREW*10 SPD AUTO.TRANSMISSION*FORD CO-PILOT360in Campbell River",
+      "condition": "used",
+      "price": 45880.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Ford F-150 XLT*5.0L V8 PERFORMANCE*4X4*SUPERCREW*10 SPD AUTO.TRANSMISSIONin Campbell River",
+      "vin": "1FTFW1E52PFA97213",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/3f1d7c7dbddc.html",
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150 XLT*5.0L V8 PERFORMANCE*4X4*SUPERCREW*10 SPD AUTO.TRANSMISSIONin Campbell River",
+      "condition": "used",
+      "price": 45913.0,
       "price_currency": "CAD"
     },
     {
@@ -468,39 +692,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Honda CR-V SPORT*AWD*TURBO-CHARGED*HONDA SENSING TECHNOLOGY*VERSATILE CARGO AREAin Campbell River",
-      "vin": "2HKRS4H50PH118362",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/fbe061a36865.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "CR-V SPORT*AWD*TURBO-CHARGED*HONDA SENSING TECHNOLOGY*VERSATILE CARGO AREAin Campbell River",
-      "condition": "used",
-      "price": 37580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda CR-V ",
-      "vin": "2HKRS4H50PH118362",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/ff0ba730299a.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 37580.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Lincoln Aviator RESERVE*INTELLIGENT AWD*TWIN-TURBO PERFORMANCE*THREE ROW LUXURYin Campbell River",
-      "vin": "5LM5J7XC1PGL05433",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/aa3929771d99.html",
-      "year": 2023,
-      "make": "Lincoln",
-      "model": "Aviator RESERVE*INTELLIGENT AWD*TWIN-TURBO PERFORMANCE*THREE ROW LUXURYin Campbell River",
-      "condition": "used",
-      "price": 53933.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Lincoln Aviator ",
       "vin": "5LM5J7XC1PGL05433",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/531dcb120480.html",
@@ -545,91 +736,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Bronco Outer Banks 314A SASQUATCH PACKAGE *HARD TOP *HIGH/LUX PACKAGEin Campbell River",
-      "vin": "1FMEE8BP1RLA35024",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/7fc30b97d841.html",
+      "name": "2024 Buick Encore GX GX*1.3L TURBOCHARGED*ALL WHEEL DRIVE*9 SPD AUTO.TRANSMISSION*60/40 SPLIT REAR SEATSin Campbell River",
+      "vin": "KL4AMGSL8RB004253",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/d600dcb41b46.html",
       "year": 2024,
-      "make": "Ford",
-      "model": "Bronco Outer Banks 314A SASQUATCH PACKAGE *HARD TOP *HIGH/LUX PACKAGEin Campbell River",
+      "make": "Buick",
+      "model": "Encore GX GX*1.3L TURBOCHARGED*ALL WHEEL DRIVE*9 SPD AUTO.TRANSMISSION*60/40 SPLIT REAR SEATSin Campbell River",
       "condition": "used",
-      "price": 46800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Bronco ",
-      "vin": "1FMEE8BP1RLA35024",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/820132dd9e20.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 46800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Edge SEL*AWD*2.0L ECOBOOST*8-SPD AUTOMATIC*FORD CO-PILOT360*SYNC TECHNOLOGYin Campbell River",
-      "vin": "2FMPK4J98RBA97999",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/50cd87c025e9.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Edge SEL*AWD*2.0L ECOBOOST*8-SPD AUTOMATIC*FORD CO-PILOT360*SYNC TECHNOLOGYin Campbell River",
-      "condition": "used",
-      "price": 27999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Edge ST-LINE AWD 2.0L ECOBOOST *CO-PILOT360 PACKAGE *PANORAMIC ROOFin Campbell River",
-      "vin": "2FMPK4J94RBA40392",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/0940d70d7350.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Edge",
-      "condition": "used",
-      "price": 26999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Edge ",
-      "vin": "2FMPK4J94RBA40392",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/26d22bfb5884.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Edge",
-      "condition": "used",
-      "price": 26999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Expedition ",
-      "vin": "1FMJU1J89REB10284",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/4f4eec3cdfc0.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Expedition",
-      "condition": "used",
-      "price": 61999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford F-150 STX 200A BLACK APPEARANCE PKG*INTEGRATED TRAILER BRAKE CONTROLin Campbell River",
-      "vin": "1FTEW2LP2RKD41748",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/0f5855acc9f4.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "F-150 STX 200A BLACK APPEARANCE PKG*INTEGRATED TRAILER BRAKE CONTROLin Campbell River",
-      "condition": "used",
-      "price": 43880.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford F-150 ",
-      "vin": "1FTEW2LP2RKD41748",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/c7b48881fee1.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 43880.0,
+      "price": 32953.0,
       "price_currency": "CAD"
     },
     {
@@ -677,6 +791,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Honda Civic Sedan EXin Campbell River",
+      "vin": "2HGFE2F34RH105126",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/02016dd9791e.html",
+      "year": 2024,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 25888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Jeep Grand Cherokee Base*4x4*3.6L PENTASTAR V6*MODERN JEEP TECHNOLOGY*8-SPD AUTO TRANSMISSION*in Campbell River",
       "vin": "1C4RJHAG1RC141315",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/26f42af8fbd4.html",
@@ -684,40 +809,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee Base*4x4*3.6L PENTASTAR V6*MODERN JEEP TECHNOLOGY*8-SPD AUTO TRANSMISSION*in Campbell River",
       "condition": "used",
-      "price": 39650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Grand Cherokee ",
-      "vin": "1C4RJHAG1RC141315",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/761d041cf4f8.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 39650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-50 Meridian Edition*SKYACTIV-DRIVE/6-SPD AUTOMATIC*I-ACTIV AWD*TURBO CHARGED*ALL TERRAIN TIRESin Campbell River",
-      "vin": "7MMVABDY6RN161595",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/14013b450bc5.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-50 Meridian Edition*SKYACTIV-DRIVE/6-SPD AUTOMATIC*I-ACTIV AWD*TURBO CHARGED*ALL TERRAIN TIRESin Campbell River",
-      "condition": "used",
-      "price": 31999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-50 ",
-      "vin": "7MMVABDY6RN161595",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/e2df2e5d1633.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-50",
-      "condition": "used",
-      "price": 31999.0,
+      "price": 39280.0,
       "price_currency": "CAD"
     },
     {
@@ -745,89 +837,12 @@
     {
       "name": "2024 Volkswagen Atlas Cross Sport ",
       "vin": "1V2FE2CA7RC239177",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/f0df83e905a5.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "used",
-      "price": 40498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2FE2CA7RC239177",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/f0df83e905a5.html",
       "year": 2024,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "new",
       "price": 40498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford F-150 XLT 301A 3.5L V6 ECOBOOST *CHROME RUNNING BOARDSin Campbell River",
-      "vin": "1FTFW3L87SKE51011",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/bdc89ba65219.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150 XLT 301A 3.5L V6 ECOBOOST *CHROME RUNNING BOARDSin Campbell River",
-      "condition": "used",
-      "price": 47500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford F-150 XLT 301A 3.5L V6 ECOBOOST *18 CHROME WHEELSin Campbell River",
-      "vin": "1FTFW3L88SKE62227",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/66ed8a726247.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150 XLT 301A 3.5L V6 ECOBOOST *18 CHROME WHEELSin Campbell River",
-      "condition": "used",
-      "price": 47500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford F-150 XLT 301A 3.5L V6 ECOBOOST *18 CHROME WHEELSin Campbell River",
-      "vin": "1FTFW3L86SKE50349",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/6b179b8ece81.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150 XLT 301A 3.5L V6 ECOBOOST *18 CHROME WHEELSin Campbell River",
-      "condition": "used",
-      "price": 50880.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford F-150 STX 200B 2.7L V6 ECOBOOSTin Campbell River",
-      "vin": "1FTEW2LP6SKD88724",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/02a40771d805.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 49999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford F-150 XLT*3.5L ECOBOOST V6*4X4*SUPERCREW*in Campbell River",
-      "vin": "1FTFW3L81SKE61176",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/5decdca3ecb6.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 50976.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford F-150 ",
-      "vin": "1FTFW3L87SKE51011",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/4f83adf2971d.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 47500.0,
       "price_currency": "CAD"
     },
     {
@@ -853,58 +868,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 GMC Terrain AWD*1.5L TURBO 4-CYLINDER*PREMIUN PKG*HEATED & VENTED SEATS*ADVANCED GMC TECHNOLOGYin Campbell River",
-      "vin": "3GKALUEG5SL288780",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/a409540e8681.html",
-      "year": 2025,
-      "make": "GMC",
-      "model": "Terrain AWD*1.5L TURBO 4-CYLINDER*PREMIUN PKG*HEATED & VENTED SEATS*ADVANCED GMC TECHNOLOGYin Campbell River",
-      "condition": "used",
-      "price": 36498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 GMC Terrain ",
-      "vin": "3GKALUEG5SL288780",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/399b08ba053d.html",
-      "year": 2025,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "used",
-      "price": 36498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Trax 1RS*1.2L TURBOCHARGED PERFORMANCE*SPORTY STYLING*MODERN CHEVROLET TECHNOLOGYin Campbell River",
-      "vin": "KL77LGE2XTC084336",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/b2274d3a4d6e.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trax 1RS*1.2L TURBOCHARGED PERFORMANCE*SPORTY STYLING*MODERN CHEVROLET TECHNOLOGYin Campbell River",
-      "condition": "used",
-      "price": 27998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Trax ",
-      "vin": "KL77LGE2XTC084336",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/7f0d0c7b9544.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 27998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Super Duty F-350 SRW ",
-      "vin": "1FT8W3BMXTEE63273",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/02eb4a26fff0.html",
+      "name": "2026 Ford Maverick XLT*2.5L HYBRID*4K TOW PKG*FORD CO-PILOT360in Campbell River",
+      "vin": "3FTTW8J31TRA10334",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/e4a5a9a523a1.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty",
+      "model": "Maverick XLT*2.5L HYBRID*4K TOW PKG*FORD CO-PILOT360in Campbell River",
       "condition": "used",
-      "price": 105888.0,
+      "price": 41888.0,
       "price_currency": "CAD"
     },
     {

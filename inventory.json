@@ -1,7 +1,7 @@
 {
   "dealership": "Steve Marshall Motors 1996 Ltd",
-  "generated_at": "2026-11-18T02:29:35",
-  "vehicle_count": 139,
+  "generated_at": "2026-11-18T09:56:56",
+  "vehicle_count": 142,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -792,7 +792,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Maverick LARIAT AWD SuperCrewin Campbell River",
+      "name": "New 2025 Ford Maverick LARIAT AWD SuperCrewin Campbell River",
       "vin": "3FTTW8SA5SRA23678",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/1d44e58f80f1.html",
       "year": 2025,
@@ -890,91 +890,91 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco HARD TOP *10 SPD AUTO TRANSMISSIONin Campbell River",
+      "name": "New 2026 Ford Bronco HARD TOP *10 SPD AUTO TRANSMISSIONin Campbell River",
       "vin": "1FMDE6BH6TLB22837",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/5bbbcc164ab1.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco HARD TOP *10 SPD AUTO TRANSMISSIONin Campbell River",
       "condition": "new",
-      "price": 55500.0,
+      "price": 51750.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banks Tech Pack *Power Moonroofin Campbell River",
+      "name": "New 2026 Ford Bronco Sport Outer Banks Tech Pack *Power Moonroofin Campbell River",
       "vin": "3FMCR9CN9TRE37316",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/6dc21a80ebae.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport Outer Banks Tech Pack *Power Moonroofin Campbell River",
       "condition": "new",
-      "price": 43085.0,
+      "price": 41585.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport DEMO*Outer Banks TECH PACKAGE *POWER MOONROOFin Campbell River",
+      "name": "2026 Ford Bronco Sport DEMO*Outer Banks TECH PACKAGE *POWER MOONROOF demoin Campbell River",
       "vin": "3FMCR9CN0TRE87229",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/9f4bec88cf42.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport DEMO*Outer Banks TECH PACKAGE *POWER MOONROOFin Campbell River",
+      "model": "Bronco Sport DEMO*Outer Banks TECH PACKAGE *POWER MOONROOF demoin Campbell River",
       "condition": "new",
-      "price": 42884.0,
+      "price": 41384.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport *DEMO* BIG BEND BLACK APPEARANCE PACKAGEin Campbell River",
+      "name": "2026 Ford Bronco Sport *DEMO* BIG BEND BLACK APPEARANCE PACKAGE demoin Campbell River",
       "vin": "3FMCR9BN7TRE86998",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/e8ba62ea186f.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport *DEMO* BIG BEND BLACK APPEARANCE PACKAGEin Campbell River",
+      "model": "Bronco Sport *DEMO* BIG BEND BLACK APPEARANCE PACKAGE demoin Campbell River",
       "condition": "new",
-      "price": 38485.0,
+      "price": 37735.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banks TECH PACKAGE *POWER MOONROOFin Campbell River",
+      "name": "New 2026 Ford Bronco Sport Outer Banks TECH PACKAGE *POWER MOONROOFin Campbell River",
       "vin": "3FMCR9CN0TRE87411",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/dc213ed56a84.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport Outer Banks TECH PACKAGE *POWER MOONROOFin Campbell River",
       "condition": "new",
-      "price": 43684.0,
+      "price": 42184.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bend BLACK APPEARANCE PACKAGEin Campbell River",
+      "name": "New 2026 Ford Bronco Sport Big Bend BLACK APPEARANCE PACKAGEin Campbell River",
       "vin": "3FMCR9BN0TRE84977",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/ce628f5f6327.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport Big Bend BLACK APPEARANCE PACKAGEin Campbell River",
       "condition": "new",
-      "price": 39085.0,
+      "price": 38335.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bend BLACK APPEARANCE PACKAGEin Campbell River",
+      "name": "New 2026 Ford Bronco Sport Big Bend BLACK APPEARANCE PACKAGEin Campbell River",
       "vin": "3FMCR9BN8TRE85911",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/705496394c2b.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport Big Bend BLACK APPEARANCE PACKAGEin Campbell River",
       "condition": "new",
-      "price": 39285.0,
+      "price": 38535.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banks *TECH PACKAGEin Campbell River",
+      "name": "New 2026 Ford Bronco Sport Outer Banks *TECH PACKAGEin Campbell River",
       "vin": "3FMCR9CN8TRE96969",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/ff83fa4b2c57.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport Outer Banks *TECH PACKAGEin Campbell River",
       "condition": "new",
-      "price": 41385.0,
+      "price": 39885.0,
       "price_currency": "CAD"
     },
     {
@@ -1275,7 +1275,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E PREMIUM*PANORAMIC ROOF PKG*360 DEGREE CAMERA*MOBILE POWER CORD*TECHNOLOGY PKG*POWER LIFTGATE*FRUNKin Campbell River",
+      "name": "New 2026 Ford Maverick XLin Campbell River",
+      "vin": "3FTTWBBA2TRB29099",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/6af7db4ced97.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 40495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Mustang Mach-E PREMIUM*PANORAMIC ROOF PKG*360 DEGREE CAMERA*MOBILE POWER CORD*TECHNOLOGY PKG*POWER LIFTGATE*FRUNKin Campbell River",
       "vin": "3FMTK3SU2TMA26296",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/296107762837.html",
       "year": 2026,
@@ -1407,6 +1418,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford Ranger XLT*FX4 OFF-ROAD PKG*2.3L ECOBOOST*BLACK APPEARANCE PKGin Campbell River",
+      "vin": "1FTER4HH3TLE16804",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/06565f6a286e.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Ranger XLT*FX4 OFF-ROAD PKG*2.3L ECOBOOST*BLACK APPEARANCE PKGin Campbell River",
+      "condition": "new",
+      "price": 48650.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BMXTEE63273",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/02eb4a26fff0.html",
@@ -1426,6 +1448,17 @@
       "model": "Explorerin Campbell River",
       "condition": "new",
       "price": 60795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Super Duty F-350 SRWin Campbell River",
+      "vin": "2FT8W3BM4VBA05274",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/553c336967f6.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "new",
+      "price": 138644.0,
       "price_currency": "CAD"
     }
   ]

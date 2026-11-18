@@ -1,6 +1,6 @@
 {
   "dealership": "Steve Marshall Motors 1996 Ltd",
-  "generated_at": "2026-11-18T09:56:56",
+  "generated_at": "2026-11-18T11:17:37",
   "vehicle_count": 142,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -407,12 +407,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford F-150 XLT*5.0L V8 PERFORMANCE*4X4*10-SPEED AUTO.TRANSMISSION*SYNC 4 INFOTAINMENT*FORD CO-PILOT360in Campbell River",
+      "name": "2021 Ford F-150 XLT *5.0L V8 302A Pkg *SYNC 4 *FORD CO-PILOT360in Campbell River",
       "vin": "1FTFW1E57MKE90191",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/83ca96648c7d.html",
       "year": 2021,
       "make": "Ford",
-      "model": "F-150 XLT*5.0L V8 PERFORMANCE*4X4*10-SPEED AUTO.TRANSMISSION*SYNC 4 INFOTAINMENT*FORD CO-PILOT360in Campbell River",
+      "model": "F-150 XLT *5.0L V8 302A Pkg *SYNC 4 *FORD CO-PILOT360in Campbell River",
       "condition": "used",
       "price": 40991.0,
       "price_currency": "CAD"
@@ -447,7 +447,7 @@
       "make": "Ford",
       "model": "Mustang Mach-E PREMIUM*FORD CO-PILOT360*INTERIOR PROTECTION PKGin Campbell River",
       "condition": "used",
-      "price": 30800.0,
+      "price": 29880.0,
       "price_currency": "CAD"
     },
     {

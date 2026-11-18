@@ -7,7 +7,7 @@ Steve Marshall Motors (1996) Ltd. is a  dealership in Campbell River. This site 
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/ and https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/ (about 141 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/ and https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/ (about 139 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/llms.txt

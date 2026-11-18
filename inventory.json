@@ -1,7 +1,7 @@
 {
   "dealership": "Steve Marshall Motors 1996 Ltd",
-  "generated_at": "2026-11-17T11:54:21",
-  "vehicle_count": 146,
+  "generated_at": "2026-11-18T00:50:16",
+  "vehicle_count": 141,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -912,6 +912,7 @@
     },
     {
       "name": "2026 Ford Mustang Mach-Ein Campbell River",
+      "vin": "3FMTK3SU0TMA11960",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/5c98c65e807b.html",
       "year": 2026,
       "make": "Ford",
@@ -922,12 +923,13 @@
     },
     {
       "name": "2026 Ford Rangerin Campbell River",
+      "vin": "1FTER4PHXTLE54550",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/acadf48f01b8.html",
       "year": 2026,
       "make": "Ford",
       "model": "Rangerin Campbell River",
       "condition": "new",
-      "price": 43565.0,
+      "price": 42565.0,
       "price_currency": "CAD"
     },
     {
@@ -1074,17 +1076,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport BIG BEND*1.5L ECOBOOST*8-SPD AUTO TRANSMISSIONin Campbell River",
-      "vin": "3FMCR9BNXTRF30931",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/94afaa8b7cb8.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport BIG BEND*1.5L ECOBOOST*8-SPD AUTO TRANSMISSIONin Campbell River",
-      "condition": "new",
-      "price": 41215.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Ford Explorer St-Line Premium Package *ST-Line Street Package *Panoramic Roofin Campbell River",
       "vin": "1FMUK8KH8TGB84592",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/301c230eac2f.html",
@@ -1228,6 +1219,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford F-150 XLT*3.5L V6 ECOBOOST*BLACK PLATFORM RUNNING BOARD*SKID PLATES*TOW/HAUL PKG*KEYLESS ENTRY-DRIVER SIDEin Campbell River",
+      "vin": "1FTFW3L8XTKF46342",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/907a75b77533.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150 XLT*3.5L V6 ECOBOOST*BLACK PLATFORM RUNNING BOARD*SKID PLATES*TOW/HAUL PKG*KEYLESS ENTRY-DRIVER SIDEin Campbell River",
+      "condition": "new",
+      "price": 57025.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Ford F-150 STX*2.7L ECOBOOST*FOG LIGHTS*20\" DARK GREY ALUM.WHEELS*in Campbell River",
       "vin": "1FTEW2LP9TKE96465",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/3cd14e33e8e1.html",
@@ -1324,72 +1326,6 @@
       "model": "Mustang Mach-E",
       "condition": "new",
       "price": 55585.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger XLT 301A Black Appearance Package FX4 Off Road Package *Advanced Towing Packagein Campbell River",
-      "vin": "1FTER4HH5TLE14052",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/903a4c6dbb1a.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger XLT 301A Black Appearance Package FX4 Off Road Package *Advanced Towing Packagein Campbell River",
-      "condition": "new",
-      "price": 51498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger 300A Black Appearance Package FX4 Off Road Package * Trailer Tow Packagein Campbell River",
-      "vin": "1FTER4HHXTLE16251",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/d55a95593fd8.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger 300A Black Appearance Package FX4 Off Road Package * Trailer Tow Packagein Campbell River",
-      "condition": "new",
-      "price": 49127.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger XLT 301A Black Appearance Package *FX4 Off Road Package *Conveience Packagein Campbell River",
-      "vin": "1FTER4HH1TLE22939",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/7a450b7f7d47.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger XLT 301A Black Appearance Package *FX4 Off Road Package *Conveience Packagein Campbell River",
-      "condition": "new",
-      "price": 52204.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger XL FX4 OFF ROAD PACKAGEin Campbell River",
-      "vin": "1FTER4PH0TLE34100",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/93071c848311.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 44061.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger XLT 301A SPORT APPEARANCE PACKAGE 2.3L ECOBOOSTin Campbell River",
-      "vin": "1FTER4HH2TLE32184",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/c777e3213b49.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger XLT 301A SPORT APPEARANCE PACKAGE 2.3L ECOBOOSTin Campbell River",
-      "condition": "new",
-      "price": 48578.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger XL STX APPEARANCE PACKAGE *LT TIRESin Campbell River",
-      "vin": "1FTER4PH7TLE44316",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/5ec8cf0c8dcf.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger XL STX APPEARANCE PACKAGE *LT TIRESin Campbell River",
-      "condition": "new",
-      "price": 43901.0,
       "price_currency": "CAD"
     },
     {
@@ -1522,6 +1458,17 @@
       "model": "Super Duty",
       "condition": "new",
       "price": 105888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Explorerin Campbell River",
+      "vin": "1FMUK8KH0VGA07117",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/new/b920762ceda4.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Explorerin Campbell River",
+      "condition": "new",
+      "price": 60795.0,
       "price_currency": "CAD"
     }
   ]

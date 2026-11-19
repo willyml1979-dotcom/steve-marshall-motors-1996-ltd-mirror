@@ -1,7 +1,7 @@
 {
   "dealership": "Steve Marshall Motors 1996 Ltd",
-  "generated_at": "2026-11-18T20:19:15",
-  "vehicle_count": 141,
+  "generated_at": "2026-11-18T21:47:49",
+  "vehicle_count": 142,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -82,7 +82,7 @@
       "vin": "3FMTK3SU0MMA23009",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/ef450b79c07f.html",
       "condition": "used",
-      "price": 29800.0,
+      "price": 27999.0,
       "price_currency": "CAD"
     },
     {
@@ -130,7 +130,15 @@
       "vin": "JM3KFBCM7N1582172",
       "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/54464c1f5250.html",
       "condition": "used",
-      "price": 20972.0,
+      "price": 19800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2022 for salein Campbell River",
+      "vin": "1C6SRFTT2NN108290",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/8f72a9299831.html",
+      "condition": "used",
+      "price": 42999.0,
       "price_currency": "CAD"
     },
     {
@@ -546,7 +554,18 @@
       "make": "Mazda",
       "model": "CX-5 KURO EDITION*AWD*2.5L SKYACTIV-G 4 CYLINDER*60/40 SPLIT FOLDING REAR SEATSin Campbell River",
       "condition": "used",
-      "price": 20972.0,
+      "price": 19800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 RAM 1500 SPORT*5.7L HEMI V8 PERFORMANCE*4X4*CREWCAB*8-SPD AUTO.TRANSMISSIONin Campbell River",
+      "vin": "1C6SRFTT2NN108290",
+      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/c72910f15d72.html",
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500 SPORT*5.7L HEMI V8 PERFORMANCE*4X4*CREWCAB*8-SPD AUTO.TRANSMISSIONin Campbell River",
+      "condition": "used",
+      "price": 42999.0,
       "price_currency": "CAD"
     },
     {
@@ -811,17 +830,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 47500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Jeep Grand Cherokee LAREDO*3.6L PENTASTAR V6 PERFORMANCE*PREMIUM SUV COMFORT*8-SPD AUTO.TRANSMISSIONin Campbell River",
-      "vin": "1C4RJHAG3S8780434",
-      "url": "https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/c648082c7b51.html",
-      "year": 2025,
-      "make": "Jeep",
-      "model": "Grand Cherokee LAREDO*3.6L PENTASTAR V6 PERFORMANCE*PREMIUM SUV COMFORT*8-SPD AUTO.TRANSMISSIONin Campbell River",
-      "condition": "used",
-      "price": 46999.0,
       "price_currency": "CAD"
     },
     {

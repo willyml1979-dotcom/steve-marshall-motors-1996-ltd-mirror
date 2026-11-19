@@ -1,6 +1,6 @@
 # Steve Marshall Motors (1996) Ltd.
 
- dealership in Campbell River. AI-readable inventory mirror, about 141 vehicles.
+ dealership in Campbell River. AI-readable inventory mirror, about 142 vehicles.
 
 - Official website: https://www.stevemarshallfordcampbellriver.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/steve-marshall-motors-1996-ltd-mirror/used/
